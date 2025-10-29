@@ -1,0 +1,92 @@
+2025-10-29 14:11:25,464 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:11:25,465 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:11:25,465 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:11:25,466 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:11:25,466 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:11:25,466 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:12:56,140 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:12:56,140 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:12:58,343 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D93E93FE50>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:12:58,344 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:12:58,345 - test_runner - INFO - 开始运行测试套件...
+2025-10-29 14:12:58,747 - test_runner - ERROR - 测试套件运行失败，返回码: 1
+2025-10-29 14:12:58,747 - test_runner - INFO - 生成测试报告...
+2025-10-29 14:12:58,748 - test_runner - INFO - 测试报告已生成: test_report.txt
+2025-10-29 14:13:36,956 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:13:36,957 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:13:36,957 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:13:36,957 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:13:36,957 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:13:36,958 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:13:38,479 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:13:38,479 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:13:40,613 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B278BED0D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:13:40,614 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:13:40,614 - test_runner - INFO - 开始运行测试套件...
+2025-10-29 14:13:40,925 - test_runner - ERROR - 测试套件运行失败，返回码: 1
+2025-10-29 14:13:40,925 - test_runner - INFO - 生成测试报告...
+2025-10-29 14:13:40,926 - test_runner - INFO - 测试报告已生成: test_report.txt
+2025-10-29 14:14:03,655 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:14:03,656 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:14:03,656 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:14:03,656 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:14:03,656 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:14:03,656 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:14:05,060 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:14:05,061 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:14:07,186 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C908A9F390>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:14:07,186 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:14:07,187 - test_runner - INFO - 开始运行测试套件...
+2025-10-29 14:14:07,681 - test_runner - ERROR - 测试套件运行失败，返回码: 1
+2025-10-29 14:14:07,681 - test_runner - INFO - 生成测试报告...
+2025-10-29 14:14:07,682 - test_runner - INFO - 测试报告已生成: test_report.txt
+2025-10-29 14:14:28,263 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:14:28,263 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:14:28,263 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:14:28,263 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:14:28,263 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:14:28,264 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:14:29,670 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:14:29,671 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:14:31,788 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015381AB8310>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:14:31,789 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:14:31,789 - test_runner - INFO - 开始运行测试套件...
+2025-10-29 14:14:32,195 - test_runner - INFO - 测试套件运行成功
+2025-10-29 14:14:32,195 - test_runner - INFO - 生成测试报告...
+2025-10-29 14:14:32,196 - test_runner - INFO - 测试报告已生成: test_report.txt
+2025-10-29 14:14:51,050 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:14:51,050 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:14:51,050 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:14:51,050 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:14:51,051 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:14:51,052 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:14:52,466 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:14:52,467 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:14:54,613 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001664CCF8610>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:14:54,613 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:14:54,614 - test_runner - INFO - 开始运行测试套件...
+2025-10-29 14:14:55,061 - test_runner - INFO - 测试套件运行成功
+2025-10-29 14:14:55,061 - test_runner - INFO - 生成测试报告...
+2025-10-29 14:14:55,062 - test_runner - INFO - 测试报告已生成: test_report.txt
+2025-10-29 14:18:14,306 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:18:14,307 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:18:14,307 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:18:14,307 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:18:14,308 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:18:14,308 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:18:15,747 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:18:15,747 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:18:17,882 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A66AAFF250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:18:17,882 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:18:17,883 - test_runner - INFO - 开始运行测试套件...
+2025-10-29 14:46:23,094 - test_runner - INFO - 开始检查测试环境...
+2025-10-29 14:46:23,094 - test_runner - INFO - Python版本: 3.11.5
+2025-10-29 14:46:23,094 - test_runner - WARNING - 未设置COFYUI_API_ENDPOINT环境变量，使用默认值
+2025-10-29 14:46:23,094 - test_runner - WARNING - 未设置COMFYUI_API_KEY环境变量，使用空值
+2025-10-29 14:46:23,095 - test_runner - INFO - 测试环境检查完成
+2025-10-29 14:46:23,095 - test_runner - INFO - 开始安装测试依赖...
+2025-10-29 14:46:26,446 - test_runner - INFO - 测试依赖安装完成
+2025-10-29 14:46:26,446 - test_runner - INFO - 开始测试ComfyUI API连接: http://localhost:8188
+2025-10-29 14:46:28,580 - test_runner - WARNING - ComfyUI API连接失败: HTTPConnectionPool(host='localhost', port=8188): Max retries exceeded with url: /prompt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FD0C2E12D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-10-29 14:46:28,581 - test_runner - WARNING - 测试将继续，但可能会因为API连接问题而失败
+2025-10-29 14:46:28,581 - test_runner - INFO - 开始运行测试套件...

@@ -17,10 +17,11 @@
 
 ## 安装步骤
 
-1. 克隆项目代码
+1. 克隆项目代码（请参考[Git设置指南](GIT_SETUP.md)了解如何创建和配置远程仓库）
 
 ```bash
-git clone [repository-url] cd video_keev
+git clone https://github.com/您的用户名/video_keev.git
+cd video_keev
 ```
 
 2. 安装依赖包
@@ -31,12 +32,11 @@ pip install -r requirements.txt
 
 3. 配置环境变量
 
-复制`.env.example`文件为`.env`，并填写相应的配置信息：
+直接创建`.env`文件并填写相应的配置信息：
 
 ```bash
-cp .env.example .env
 # 编辑.env文件，设置API密钥和端点
-```
+# 参考.env文件中的默认配置格式
 
 ## 环境变量配置
 
