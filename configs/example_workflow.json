@@ -1,0 +1,49 @@
+{
+  "workflow_id": "realistic_video_replication",
+  "frame_rate": 15,
+  "max_frames": 100,
+  "quality_level": "high",
+  "preprocess": {
+    "resize": {
+      "width": 720,
+      "height": 480,
+      "preserve_aspect_ratio": true
+    },
+    "normalize": true,
+    "denoise": false,
+    "enhance_contrast": true
+  },
+  "custom_params": {
+    "model_id": "realistic_video_v1",
+    "style": "natural",
+    "motion_blur": 0.2,
+    "color_correction": true,
+    "sharpness": 1.2,
+    "detail_preservation": "high"
+  },
+  "replacement": {
+    "person": {
+      "enabled": false,
+      "target_description": "穿着红色衣服的女性",
+      "replacement_image": "",
+      "preserve_pose": true,
+      "confidence_threshold": 0.7
+    },
+    "background": {
+      "enabled": false,
+      "prompt": "现代都市街道",
+      "negative_prompt": "人物, 商品, 杂物",
+      "preserve_foreground": true,
+      "blur_strength": 0.3
+    },
+    "product": {
+      "enabled": false,
+      "target_description": "黑色手提包",
+      "replacement_image": "",
+      "product_mask_prompt": "",
+      "preserve_lighting": true,
+      "shadow_intensity": 0.5
+    }
+  },
+  "poll_interval": 5
+}
